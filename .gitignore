@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+.vscode/tasks.json
+Chapter 2/2-5.dSYM/Contents/Info.plist
+Chapter 2/2-5.dSYM/Contents/Resources/DWARF/2-5
+Chapter 2/2-5
+Chapter 2/2-4
